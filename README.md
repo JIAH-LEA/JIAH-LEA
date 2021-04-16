@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm JIAH! 👋
+
+- 🌱 I’m currently learning `Spring Boot`, `JAVA`, `AWS Cloud`
+- 👩🏻‍🎓 I'm majoring in Software Convergence, at Sookmyung Women's University
+
+
+
+
 
 <!--
 **JIAH-LEA/JIAH-LEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JIAH-LEA&show_icons=true&theme=gotham)](https://github.com/JIAH-LEA/github-readme-stats)  
+
+
